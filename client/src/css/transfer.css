@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  color: #585858;
+}
+#check {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#amount {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#SearchBarCont {
+  text-align: center;
+}
+
+#SearchBar {
+  width: 50%;
+  height: 35px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f1f1f1;
+}

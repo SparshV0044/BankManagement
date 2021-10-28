@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#child {
+  background-color: #f9e9ed;
+  padding: 20px;
+  margin-top: 200px;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+
+h2 {
+  text-align: center;
+  padding-bottom: 10px;
+  color: #ff6666;
+}
+
+#submitbtn {
+  margin: auto;
+  width: 30%;
+}
